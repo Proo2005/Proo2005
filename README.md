@@ -50,12 +50,3 @@
 
 ---
 
-### 🚀 Live Animations & Interactivity
-
-- Animate skill icons using **Framer Motion** – smooth hover tilt + fade-in
-- Use **AnimXYZ** or **Anime.js** for scroll-triggered effects :contentReference[oaicite:6]{index=6}
-- Add an animated **“back-to-top” floating badge** for smooth navigation
-
----
-
-
