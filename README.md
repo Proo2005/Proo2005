@@ -13,10 +13,10 @@
 
 ## 💬 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://linkedin.com/in/prodipta-chakraborty)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2)](https://twitter.com/pro7fitness)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116)](https://leetcode.com/_pro)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866)](https://www.hackerrank.com/prochak1922)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2)](https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2)](https://x.com/PRO7FITNESS)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116)](https://leetcode.com/u/__PRO/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866)](https://www.hackerrank.com/profile/prochak1922)
 
 ---
 
