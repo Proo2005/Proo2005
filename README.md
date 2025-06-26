@@ -29,7 +29,6 @@
 | **AI/ML**         | Python, TensorFlow, PyTorch, scikit‑learn, OpenCV                     |
 | **Dev Tools**     | Docker, Git, Linux, Figma                                              |
 
-> ✨ Tip: Use **Framer Motion** or **React Spring** to animate entry of each skill icon for a slick hover/fade-in effect :contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -61,7 +60,7 @@
 
 ### 📌 Code Sample: Framer Motion Fade-In
 
-```jsx
+
 import { motion } from 'framer-motion';
 
 <motion.div
