@@ -34,11 +34,11 @@
 
 ## 🎯 Featured Projects
 
-- **🎮 Tug-of-War Game** – React-based interactive key-tap game (with animated rope tug via Framer Motion)
 - **🎵 Emotion-Based Music Recommender** – AI + Spotify API
 - **🏡 StayFinder** – Airbnb-style full-stack app (Django + React)
 - **📷 Emotion Detector** – Real-time camera-based ML model
-
+- **🎮 Tug-of-War Game** – React-based interactive key-tap game (with animated rope tug via Framer Motion)
+  
 ---
 
 ## 📊 GitHub Stats
