@@ -6,8 +6,8 @@
 ## 🔥 Highlights
 
 - 🚀 **MERN/Django & AI-powered** web apps
-- 🧠 Proficient in **Python**, **C++**, **Java**, **JavaScript**
-- 💡 Building **real‑time ML apps**, **emotion detection**, and **interactive games**
+- 🧠 Proficient in **Python**, **C++**, **Java** ,**SQL**
+- 💡 Building **real‑time ML apps**, **mern apps**, and **interactive games**
 
 ---
 
@@ -24,7 +24,7 @@
 
 | **Category**      | **Tools**                                                                 |
 |------------------|---------------------------------------------------------------------------|
-| **Front‑end**     | React, Next.js, Tailwind CSS, Framer‑Motion, AnimXYZ |
+| **Front‑end**     | React, Tailwind CSS, Framer‑Motion, AnimXYZ , Reactbits |
 | **Back‑end**      | Node.js, Express, Django, MongoDB, PostgreSQL                           |
 | **AI/ML**         | Python, TensorFlow, PyTorch, scikit‑learn, OpenCV                     |
 | **Dev Tools**     | Docker, Git, Linux, Figma                                              |
@@ -34,6 +34,9 @@
 
 ## 🎯 Featured Projects
 
+- **🤟👋✋ sign language detection** -AI + mediapipe
+- **🦠😷 Pandemic management system** -AI +  Web dev + Api
+- **🏥👩‍⚕️👨‍⚕️🚑 Hospital management system** -Web dev + mongodb
 - **🎵 Emotion-Based Music Recommender** – AI + Spotify API
 - **🏡 StayFinder** – Airbnb-style full-stack app (Django + React)
 - **📷 Emotion Detector** – Real-time camera-based ML model
