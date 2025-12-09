@@ -15,9 +15,10 @@ From **full-stack apps** to **real-time ML systems**, I love creating solutions 
 
 ## 📊 GitHub Stats
 
-![Repos](https://img.shields.io/github/repos/Proo2005?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Proo2005?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/Proo2005?style=for-the-badge)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Proo2005&theme=vision-friendly-dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proo2005&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
 
 ---
