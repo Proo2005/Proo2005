@@ -1,25 +1,38 @@
 <h1 align="center">👋 Hi, I'm <b>Prodipta Chakraborty</b></h1>
-<h3 align="center">Full-Stack Developer • AI/ML Enthusiast • India 🇮🇳</h3>
+<h3 align="center">Full-Stack Developer & AI/ML Enthusiast • India 🇮🇳</h3>
 
 ---
 
-## 🚀 About Me
-I love building **smart, interactive, and scalable products**—from full-stack apps to real-time AI systems.  
-Currently exploring **Generative AI**, **deep learning**, and high-performance **web engineering**.
+## 🌟 About Me
+I build **interactive, scalable, and AI-powered products**.  
+From **full-stack apps** to **real-time ML systems**, I love creating solutions that **blend code with creativity**.  
+
+- 🚀 **MERN / Django & React** for full-stack apps  
+- 🤖 **Python + AI/ML** pipelines: TensorFlow, PyTorch, scikit-learn  
+- 🎨 **UI/UX & Animations**: Tailwind, Framer Motion, AnimXYZ  
 
 ---
 
-## ✨ What I Do
-- 🌐 Build full-stack apps using **MERN / Django + React**  
-- 🤖 Design AI/ML pipelines using **TensorFlow, PyTorch, scikit-learn**  
-- 🛠 Create clean, scalable systems with **Node.js, MongoDB, PostgreSQL**  
-- 🎨 Craft smooth UI/UX with **Tailwind, Framer Motion, AnimXYZ**
+## 📊 GitHub Stats
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Proo2005&theme=vision-friendly-dark&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proo2005&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
+## 🛠 Tech Stack
 
-<p align="left">
+| **Frontend**      | **Backend**              | **AI / ML**                            | **Databases**      | **Dev Tools**        |
+|------------------|------------------------|--------------------------------------|------------------|-------------------|
+| React, Tailwind, Framer Motion, AnimXYZ, Redux | Node.js, Express, Django, REST APIs | Python, TensorFlow, PyTorch, scikit-learn, OpenCV, Mediapipe | MongoDB, PostgreSQL, MySQL | Docker, Git, Linux, VS Code, Figma |
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
   <a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -36,56 +49,15 @@ Currently exploring **Generative AI**, **deep learning**, and high-performance *
 
 ---
 
-## 🛠 Tech Stack
-
-### 🌐 Frontend
-React • Tailwind CSS • Framer Motion • AnimXYZ • Redux
-
-### 🔧 Backend
-Node.js • Express • Django • REST APIs
-
-### 🧠 AI / Machine Learning
-Python • TensorFlow • PyTorch • scikit-learn • OpenCV • Mediapipe
-
-### 🗄 Databases
-MongoDB • PostgreSQL • MySQL
-
-### ⚙ Dev Tools
-Docker • Git • Linux • Figma • VS Code
-
----
-
 ## 🌟 Featured Projects
 
-### 🤟 **Sign Language Detection (AI + Mediapipe)**
-Real-time detection model with gesture tracking and classification.
-
-### 🦠 **Pandemic Management System**  
-AI-powered prediction + dashboard + API-integrated monitoring.
-
-### 🏥 **Hospital Management System**  
-Full-stack medical workflow system using MongoDB.
-
-### 🎵 **Emotion-Based Music Recommender**  
-AI model + Spotify API → auto-plays music based on user emotion.
-
-### 🏡 **StayFinder (Airbnb-style App)**  
-Django + React full-stack booking platform.
-
-### 📷 **Emotion Detector (Real-time)**  
-Camera input → ML → live emotion detection & analytics.
-
-### 🎮 **Tug-of-War Tap Game**  
-React game with rope physics + Framer Motion animations.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Proo2005&theme=tokyonight&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proo2005&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- **🤟 Sign Language Detection** – Real-time AI + Mediapipe  
+- **🦠 Pandemic Management System** – AI-powered dashboard & API  
+- **🏥 Hospital Management System** – Full-stack web app with MongoDB  
+- **🎵 Emotion-Based Music Recommender** – AI + Spotify API integration  
+- **🏡 StayFinder** – Django + React Airbnb-style booking platform  
+- **📷 Emotion Detector** – Real-time camera-based ML model  
+- **🎮 Tug-of-War Game** – React + Framer Motion interactive game  
 
 ---
 
@@ -97,4 +69,4 @@ React game with rope physics + Framer Motion animations.
 ---
 
 ## 💡 Fun Fact
-I love building things that feel **alive** — interactive UIs, reactive ML apps, and anything that blends creativity with code.
+I love building **things that feel alive** – interactive UIs, reactive ML apps, and projects that combine **creativity with technology**.
