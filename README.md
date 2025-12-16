@@ -55,10 +55,9 @@ From **full-stack apps** to **real-time ML systems**, I love creating solutions 
 - **🤟 Sign Language Detection** – Real-time AI + Mediapipe  
 - **🦠 Pandemic Management System** – AI-powered dashboard & API  
 - **🏥 Hospital Management System** – Full-stack web app with MongoDB  
-- **🎵 Emotion-Based Music Recommender** – AI + Spotify API integration  
 - **🏡 StayFinder** – Django + React Airbnb-style booking platform  
 - **📷 Emotion Detector** – Real-time camera-based ML model  
-- **🎮 Tug-of-War Game** – React + Framer Motion interactive game  
+
 
 ---
 
