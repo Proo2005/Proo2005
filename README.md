@@ -52,6 +52,7 @@ From **full-stack apps** to **real-time ML systems**, I love creating solutions 
 
 ## 🌟 Featured Projects
 
+- **🏢 Job post and bid** - realtime job posting(clients) and freelancer bidding on them
 - **🤟 Sign Language Detection** – Real-time AI + Mediapipe  
 - **🦠 Pandemic Management System** – AI-powered dashboard & API  
 - **🏥 Hospital Management System** – Full-stack web app with MongoDB  
