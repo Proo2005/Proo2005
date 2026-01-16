@@ -15,12 +15,11 @@ From **full-stack apps** to **real-time ML systems**, I love creating solutions 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Proo2005&show_icons=true&theme=radical)
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Proo2005&theme=vision-friendly-dark&hide_border=true" />
-  
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proo2005&layout=compact&theme=vision-friendly-dark&hide_border=true" />
+  <img width="45%" src="https://streak-stats.demolab.com?user=Proo2005&theme=radical" />
 </p>
 
 
