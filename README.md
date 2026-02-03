@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-  <img src="https://media.tenor.com/On7kvX5dJm4AAAAC/kitty-dancing.gif" width="150" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" alt="Kitty Dancing" />
 </div>
 
 ---
