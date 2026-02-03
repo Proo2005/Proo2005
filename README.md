@@ -11,9 +11,9 @@
 </p>
 
 <div align="center" >
-  <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" height="200" alt="Kitty Dancing" />
-  <img src="https://i.pinimg.com/736x/29/bf/64/29bf643cda0eb1443deada33f2573489.jpg" width="150" height="200" alt="Kitty Dancing" />
-  <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" height="200" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" height="150" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/29/bf/64/29bf643cda0eb1443deada33f2573489.jpg" width="150" height="150" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" height="150" alt="Kitty Dancing" />
 </div>
    
 
