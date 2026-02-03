@@ -5,6 +5,9 @@
   Building <b>interactive apps</b> and <b>real-time ML systems</b> that feel alive.
 </p>
 
+<div class="tenor-gif-embed" data-postid="11035342306793333107" data-share-method="host" data-aspect-ratio="1.24294" data-width="100%"><a href="https://tenor.com/view/kitty-dancing-jiggy-gif-11035342306793333107">Kitty Dancing Sticker</a>from <a href="https://tenor.com/search/kitty-stickers">Kitty Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <p align="center">
   <img src="https://github.com/Proo2005/spacegame/blob/main/assets/space-shooter.gif?raw=true" alt="Space Shooter Game" width="100%" />
 </p>
