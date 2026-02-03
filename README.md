@@ -16,14 +16,3 @@
   <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" height="150" alt="Kitty Dancing" />
 </div>
    
-
----
-
-### 🌟 Featured Projects
-- **🏢 Job Post & Bid** – Real-time freelancing marketplace for clients & bidders.
-- **🤟 Sign Language AI** – Real-time gesture recognition using Mediapipe & LSTM.
-- **🏡 StayFinder** – Full-stack Airbnb-style booking platform (Django + React).
-- **📷 Emotion Detector** – Live camera-based emotion analysis model.
-
----
-
