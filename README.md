@@ -13,13 +13,8 @@ From **full-stack apps** to **real-time ML systems**, I love creating solutions 
 
 ---
 
-## 📊 GitHub Stats
-
-
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Proo2005&theme=vision-friendly-dark&hide_border=true" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Proo2005&layout=compact&theme=vision-friendly-dark&hide_border=true" />
-  <img width="45%" src="https://streak-stats.demolab.com?user=Proo2005&theme=radical" />
+  <img src="https://github.com/Proo2005/spacegame/blob/main/assets/space-shooter.gif?raw=true" alt="Space Shooter Game" width="800" />
 </p>
 
 
