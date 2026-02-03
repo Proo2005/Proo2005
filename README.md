@@ -11,7 +11,39 @@
 </p>
 
 <div align="center">
-  <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" alt="Kitty Dancing" />
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/">
+          <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" alt="LinkedIn Profile" />
+        </a>
+        <br />
+        <a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/">
+          <b>LinkedIn</b>
+        </a>
+      </td>
+
+      <td align="center">
+        <a href="https://leetcode.com/u/__PRO/">
+          <img src="https://i.pinimg.com/736x/29/bf/64/29bf643cda0eb1443deada33f2573489.jpg" width="150" alt="LeetCode Profile" />
+        </a>
+        <br />
+        <a href="https://leetcode.com/u/__PRO/">
+          <b>LeetCode</b>
+        </a>
+      </td>
+
+      <td align="center">
+        <a href="https://www.hackerrank.com/profile/prochak1922">
+          <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" alt="HackerRank Profile" />
+        </a>
+        <br />
+        <a href="https://www.hackerrank.com/profile/prochak1922">
+          <b>HackerRank</b>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
