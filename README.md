@@ -10,55 +10,12 @@
   <img src="https://github.com/Proo2005/spacegame/blob/main/assets/space-shooter.gif?raw=true" alt="Space Shooter Game" width="100%" />
 </p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/">
-          <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" alt="LinkedIn Profile" />
-        </a>
-        <br />
-        <a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/">
-          <b>LinkedIn</b>
-        </a>
-      </td>
-
-      <td align="center">
-        <a href="https://leetcode.com/u/__PRO/">
-          <img src="https://i.pinimg.com/736x/29/bf/64/29bf643cda0eb1443deada33f2573489.jpg" width="150" alt="LeetCode Profile" />
-        </a>
-        <br />
-        <a href="https://leetcode.com/u/__PRO/">
-          <b>LeetCode</b>
-        </a>
-      </td>
-
-      <td align="center">
-        <a href="https://www.hackerrank.com/profile/prochak1922">
-          <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" alt="HackerRank Profile" />
-        </a>
-        <br />
-        <a href="https://www.hackerrank.com/profile/prochak1922">
-          <b>HackerRank</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center" >
+  <img src="https://i.pinimg.com/736x/77/19/00/77190088c8605dde08fdd0b3ab1a5441.jpg" width="150" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/29/bf/64/29bf643cda0eb1443deada33f2573489.jpg" width="150" alt="Kitty Dancing" />
+  <img src="https://i.pinimg.com/736x/53/c8/03/53c8037675b9831c5d484b6462f5978e.jpg" width="150" alt="Kitty Dancing" />
 </div>
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-</div>
+   
 
 ---
 
@@ -70,11 +27,3 @@
 
 ---
 
-<div align="center">
-
-### 🌐 Let's Connect
-<a href="https://www.linkedin.com/in/prodipta-chakraborty-5484b722a/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://x.com/PRO7FITNESS"><img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"></a>
-<a href="https://leetcode.com/u/__PRO/"><img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"></a>
-
-</div>
